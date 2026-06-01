@@ -14,7 +14,8 @@
 ## 安装
 
 ```bash
-sudo sh install.sh
+curl -fsSL https://raw.githubusercontent.com/chengtz/ezcheck/main/install.sh | sudo sh
+
 ```
 
 安装完成后会自动启动服务，并设置开机自启。
